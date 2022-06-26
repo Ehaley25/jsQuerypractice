@@ -1,0 +1,13 @@
+/* CSS Reset */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 1080px;
+    margin: 0 auto;
+}
+button{
+    height: 50px;
+    width: 50px;
+}
